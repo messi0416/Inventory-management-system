@@ -5,7 +5,7 @@
 
 ## Quick Installation
 
-    git clone https://github.com/messi0416/Inventory-Management-System.git
+    git clone https://github.com/messi0416/Inventory-management-system.git
 
     cd SD_Project/
     
